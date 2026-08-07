@@ -1,6 +1,6 @@
 # Capstone Report ? Refresh / Content Opportunity Scoring
 
-- **Author:** Divya
+- **Author:** Vaishnavi
 - **Lane:** Lane 2 ? Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/Vaish03166/FlyRank_Internship_StarterNotebook
 - **Date:** 2026-08-07
